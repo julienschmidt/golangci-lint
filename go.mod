@@ -6,7 +6,7 @@ require (
 	github.com/Djarvur/go-err113 v0.0.0-20200511133814-5174e21577d5
 	github.com/OpenPeeDeeP/depguard v1.0.1
 	github.com/bombsimon/wsl/v3 v3.1.0
-	github.com/denis-tingajkin/go-header v0.3.1
+	github.com/denis-tingajkin/go-header v0.4.2
 	github.com/fatih/color v1.9.0
 	github.com/go-critic/go-critic v0.5.0
 	github.com/go-xmlfmt/xmlfmt v0.0.0-20191208150333-d5b6f63a941b
